@@ -3,6 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-    printf("SYN QUEUE SERVER Example.\n");
+    printf("SYN QUEUE SERVER EXAMPLE\n");
     return 0;
 }
